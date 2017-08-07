@@ -41,10 +41,6 @@ app.use(function(req, res, next) {
   next(err);
 });
 
-app.get('/', function(req, res) {
-    console.log('Cookies: ', req.cookies);
-})
-
 // error handler
 app.use(function(err, req, res, next) {
   // set locals, only providing error in development
