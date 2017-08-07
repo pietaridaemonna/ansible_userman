@@ -1,0 +1,20 @@
+body {
+/*css for full size background image*/
+  background: url(../pic/cover.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  height: 100%;
+  background-color: #060;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+ 
+}
+
+.jumbotron {
+  background: rgb(66, 143, 244); /* This is for ie8 and below */
+  background: rgba(66, 143, 244, 0.5);
+}

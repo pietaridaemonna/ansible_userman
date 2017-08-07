@@ -5,19 +5,15 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var GLOB = require('./routes/globals');
-GLOB.push({gitpath: 'safdsfasdfsadfasdfasdf', age: 20});
 
+//ROUTES
 var index = require('./routes/index');
 var teams = require('./routes/teams');
-var gitp = require('./routes/gitpath');
-var gitps = require('./routes/gitpath_set');
-var servers = require('./routes/servers');
-var users = require('./routes/users');
-var exports = require('./routes/export');
+
 
 
 var app = express();
+
 
 
 // view engine setup
@@ -29,16 +25,14 @@ app.set('view engine', 'pug');
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser());
+app.use(cookieParser('sdlkjf@JLRK#J#$kdfj'));
 app.use(express.static(path.join(__dirname, 'public')));
 
+
+//VIEWS
 app.use('/', index);
 app.use('/teams', teams);
-app.use('/gitpath', gitp);
-app.use('/gitpath_set', gitps);
-app.use('/servers', servers);
-app.use('/users', users);
-app.use('/export', exports);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -46,6 +40,10 @@ app.use(function(req, res, next) {
   err.status = 404;
   next(err);
 });
+
+app.get('/', function(req, res) {
+    console.log('Cookies: ', req.cookies);
+})
 
 // error handler
 app.use(function(err, req, res, next) {

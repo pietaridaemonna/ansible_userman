@@ -1,0 +1,28 @@
+extends layout
+
+
+
+mixin displayLink(templateName, isImplemented)
+    tr
+    -if (isImplemented) {
+        th
+            a(href=`/template/${templateName}`)= templateName
+        th
+            a(href=`http://twbs.github.io/bootstrap/examples/${templateName}`)= templateName
+    -}
+    - else {
+        th
+            | #{templateName}
+            b
+                | &nbsp;- not implemented yet
+        th
+            a(href=`http://twbs.github.io/bootstrap/examples/${templateName}`)= templateName
+    -}
+
+
+block body
+
+    p.lead
+        | Error...
+
+
