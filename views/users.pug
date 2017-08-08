@@ -5,19 +5,21 @@ block body
   br
   .main.container
     .row
-      .col-md-6.col-md-offset-2
+      .col-md-6.col-md-offset-3
         h1.display-4.m-b-2 Users
 
-
-        div.jumbotron
-          h4 from GIT (currently set to #{proj_path} )
-          //form(method='POST' action='/teams')
-          //  div.form-group
-          //    label(for='gitpath') GIT path to your vars folder
-          //    input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path to folder where are your vars/*.yml' name='proj_path')
-          //  button.btn.btn-primary(type='submit') Set
-
-        | For more navigate to
-        |
-        a(href='https://github.com/daemonna/ansible_userman') GitHub
+        form(method='POST' action='/create_user')
+          div.form-group
+            label(for='hostname') username
+            input.form-control(type='text' id='username' placeholder='username' name='username')
+          div.form-group
+            label(for='aliasname') name or comment
+            input.form-control(type='text' id='namecomment' placeholder='name, email, telephone or comment...' name='namecomment')
+          div.form-group
+            label(for='teams') already existing teams
+            p
+            //select(name='teams', multiple='')
+            //  each val in teams
+            //    option(value='#{val}') #{val}
+          button.btn.btn-primary(type='submit') Create
 

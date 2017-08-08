@@ -5,14 +5,22 @@ block body
   br
   .main.container
     .row
-      .col-md-6.col-md-offset-2
+      .col-md-6.col-md-offset-3
         h1.display-4.m-b-2 Servers
 
 
-        div.jumbotron
-          h4 SERVERS
-
-        | For more navigate to
-        |
-        a(href='https://github.com/daemonna/ansible_userman') GitHub
+        form(method='POST' action='/create_servers')
+          div.form-group
+            label(for='hostname') hostname
+            input.form-control(type='text' id='hostname' placeholder='hostname' name='hostname')
+          div.form-group
+            label(for='aliasname') name or alias
+            input.form-control(type='text' id='aliasname' placeholder='ame or alias.. for example: jump1, controlvm1, gitlab22, etc.' name='aliasname')
+          div.form-group
+            label(for='teams') add to teams
+            p
+            //select(name='teams', multiple='')
+            //  each val in teams
+            //    option(value='#{val}') #{val}
+          button.btn.btn-primary(type='submit') Create
 
