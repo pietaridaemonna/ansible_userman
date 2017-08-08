@@ -9,12 +9,17 @@ block body
         h1.display-4.m-b-2 NEW PROJECT
 
         div.jumbotron
-          h4 from GIT (currently set to #{proj_path} )
-          form(method='POST' action='/teams')
+          form(method='POST' action='/create_struct')
             div.form-group
-              label(for='gitpath') GIT path to your vars folder
-              input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path to folder where are your vars/*.yml' name='proj_path')
-            button.btn.btn-primary(type='submit') Set
+              label(for='gitpath') GIT_PATH
+              input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path where are your vars/*.yml resides' name='proj_path')
+            button.btn.btn-primary(type='submit', disabled='') Use GIT
+
+          form(method='POST' action='/create_struct')
+            div.form-group
+              label(for='gitpath') Local folder
+              input.form-control(type='textarea' required='' id='proj_path' placeholder='LOCAL FOLDER (to be created) where are your vars/*.yml resides' name='proj_path')
+            button.btn.btn-primary(type='submit') Create local
 
         | For more navigate to
         |

@@ -15,9 +15,9 @@ var users = require('./routes/users');
 var logout = require('./routes/logout');
 
 
-
+var compression = require('compression')
 var app = express();
-
+app.use(compression())
 
 
 // view engine setup
