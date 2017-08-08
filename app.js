@@ -5,10 +5,14 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-
-//ROUTES
+/*
+ROUTES
+*/
 var index = require('./routes/index');
 var teams = require('./routes/teams');
+var servers = require('./routes/servers');
+var users = require('./routes/users');
+var exiter = require('./routes/exit');
 
 
 
@@ -25,13 +29,17 @@ app.set('view engine', 'pug');
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(cookieParser('sdlkjf@JLRK#J#$kdfj'));
+app.use(cookieParser('sdlkjf@JLRK#J#$kdfj', {resave: false, autosave: true, secure: true}));
 app.use(express.static(path.join(__dirname, 'public')));
 
-
-//VIEWS
+/*
+VIEWS
+ */
 app.use('/', index);
 app.use('/teams', teams);
+app.use('/servers', servers);
+app.use('/users', users);
+app.use('/exit', exiter);
 
 
 // catch 404 and forward to error handler

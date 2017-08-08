@@ -1,0 +1,23 @@
+extends layout_new
+
+block body
+  br
+  br
+  .main.container
+    .row
+      .col-md-6.col-md-offset-2
+        h1.display-4.m-b-2 Users
+
+
+        div.jumbotron
+          h4 from GIT (currently set to #{proj_path} )
+          //form(method='POST' action='/teams')
+          //  div.form-group
+          //    label(for='gitpath') GIT path to your vars folder
+          //    input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path to folder where are your vars/*.yml' name='proj_path')
+          //  button.btn.btn-primary(type='submit') Set
+
+        | For more navigate to
+        |
+        a(href='https://github.com/daemonna/ansible_userman') GitHub
+
