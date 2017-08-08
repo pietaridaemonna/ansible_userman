@@ -11,7 +11,7 @@ router.get('/', function (req, res, next) {
     if (!req.cookies.proj_path){
         res.redirect('/');
     } else {
-        res.render('teams', {proj_path: req.cookies.proj_path});
+        res.cookie('proj_path',req.cookies.proj_path ).render('teams', {proj_path: req.cookies.proj_path});
     }
 });
 

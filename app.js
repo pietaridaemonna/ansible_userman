@@ -12,7 +12,7 @@ var index = require('./routes/index');
 var teams = require('./routes/teams');
 var servers = require('./routes/servers');
 var users = require('./routes/users');
-var exiter = require('./routes/exit');
+var logout = require('./routes/logout');
 
 
 
@@ -39,7 +39,7 @@ app.use('/', index);
 app.use('/teams', teams);
 app.use('/servers', servers);
 app.use('/users', users);
-app.use('/exit', exiter);
+app.use('/logout', logout);
 
 
 // catch 404 and forward to error handler
