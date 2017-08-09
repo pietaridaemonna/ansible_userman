@@ -18,9 +18,16 @@ var export_git = require('./routes/export_git');
 var export_down = require('./routes/export_down');
 
 
-var compression = require('compression')
+var compression = require('compression');
+var helmet = require('helmet');
+
 var app = express();
-app.use(compression())
+app.use(compression());
+
+//Helmet can help protect your app from some well-known web vulnerabilities by setting HTTP headers appropriately.
+app.use(helmet());
+app.disable('x-powered-by');
+
 
 
 // view engine setup
@@ -34,6 +41,11 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser('sdlkjf@JLRK#J#$kdfj', {resave: false, autosave: true, secure: true}));
 app.use(express.static(path.join(__dirname, 'public')));
+
+app.use(function(req, res, next){
+    res.header("Content-Security-Policy", "default-src 'self';script-src 'self';object-src 'none';img-src 'self';media-src 'self';frame-src 'none';font-src 'self' data:;connect-src 'self';style-src 'self'");
+    next();
+});
 
 /*
 VIEWS
