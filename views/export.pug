@@ -6,26 +6,21 @@ block body
   .main.container
     .row
       .col-md-6.col-md-offset-2
-        h1.display-4.m-b-2 NEW PROJECT
+        h1.display-4.m-b-2 Export/COMMIT
 
         div.jumbotron
-          h4 from ROLE TEMPLATE
-          button.btn.btn-primary(type='submit' disabled='') Create
-
-        div.jumbotron
-          h4 from GIT (currently set to #{proj_path} )
+          h4 Commit back to #{proj_path} )
           form(method='POST' action='/teams')
             div.form-group
-              label(for='gitpath') GIT path to your vars folder
-              input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path to folder where are your vars/*.yml' name='proj_path')
-            button.btn.btn-primary(type='submit') Set
+              input.form-control(type='textarea' required='' id='proj_path' placeholder='Commit message' name='proj_path')
+            button.btn.btn-primary(type='submit') COMMIT
 
         div.jumbotron
-          h4 Reset PROJECT
+          h4 Download locally
           form(method='POST' action='/reset')
             div.form-group
 
-            button.btn.btn-primary(type='submit') Reset
+            button.btn.btn-primary(type='submit') Download
 
         | For more navigate to
         |

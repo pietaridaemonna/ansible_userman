@@ -2,15 +2,15 @@
 
 var express = require('express');
 var router = express.Router();
-const fs = require('fs-extra')
+const fs = require('fs-extra');
 
 
 /* GET home page. */
 router.post('/', function (req, res, next) {
 
     req.cookies.proj_path = req.body.proj_path;
-    //console.log('--------------CREATING folder public/projects/'+req.body.proj_path+'/vars');
 
+    // CREATE PROJECT DIR
     try {
         const dir = 'public/projects/'+req.cookies.proj_path+'/vars';
         fs.ensureDirSync(dir)
@@ -19,6 +19,7 @@ router.post('/', function (req, res, next) {
         console.error(err);
     }
 
+    //GENERATE FILES
     try{
         const servers = 'public/projects/'+req.body.proj_path+'/vars/servers.yaml';
         const teams = 'public/projects/'+req.body.proj_path+'/vars/teams.yaml';

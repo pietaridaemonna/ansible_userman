@@ -14,6 +14,7 @@ var servers = require('./routes/servers');
 var users = require('./routes/users');
 var logout = require('./routes/logout');
 var create_struct = require('./routes/create_struct');
+var exportee = require('./routes/export');
 
 
 var compression = require('compression')
@@ -42,6 +43,7 @@ app.use('/servers', servers);
 app.use('/users', users);
 app.use('/logout', logout);
 app.use('/create_struct', create_struct);
+app.use('/export', exportee);
 
 
 // catch 404 and forward to error handler
