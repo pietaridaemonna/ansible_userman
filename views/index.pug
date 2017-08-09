@@ -13,6 +13,7 @@ block body
             div.form-group
               label(for='gitpath') GIT_PATH
               input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path where are your vars/*.yml resides' name='proj_path')
+              input.form-control(type='file' accept='.pub' required='' id='git_ssh_key' placeholder='Your SSH key to access GIT repo.' name='git_ssh_key')
             button.btn.btn-primary(type='submit', disabled='') Use GIT
 
           form(method='POST' action='/create_struct')

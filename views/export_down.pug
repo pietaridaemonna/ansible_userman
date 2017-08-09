@@ -1,4 +1,4 @@
-extends layout
+extends layout_new
 
 block body
   br
@@ -7,13 +7,6 @@ block body
     .row
       .col-md-6.col-md-offset-2
         h1.display-4.m-b-2 Export/COMMIT
-
-        div.jumbotron
-          h4 Commit back to #{proj_path} )
-          form(method='POST' action='/teams')
-            div.form-group
-              input.form-control(type='textarea' required='' id='proj_path' placeholder='Commit message' name='proj_path')
-            button.btn.btn-primary(type='submit') COMMIT
 
         div.jumbotron
           h4 Download locally
