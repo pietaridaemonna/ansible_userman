@@ -9,13 +9,13 @@ block body
         h1.display-4.m-b-2 NEW PROJECT
 
         div.jumbotron
-          form(method='POST' action='/create_git')
-            div.form-group
-              label(for='gitpath') GIT_PATH
-              input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path where are your vars/*.yml resides' name='proj_path')
-              input.form-control(type='file' accept='' required='' id='git_ssh_key' placeholder='Your SSH key to access GIT repo.' name='git_ssh_key')
-              input.form-control(type='password' required='' id='privpass' placeholder='Passphrase to encrypt/secure your SSH key' name='privpass')
-            button.btn.btn-primary(type='submit', disabled='') Use GIT
+          //form(method='POST' action='/create_git')
+          //  div.form-group
+          //    label(for='gitpath') GIT_PATH
+          //    input.form-control(type='textarea' required='' id='proj_path' placeholder='GIT path where are your vars/*.yml resides' name='proj_path')
+          //    input.form-control(type='file' accept='' required='' id='git_ssh_key' placeholder='Your SSH key to access GIT repo.' name='git_ssh_key')
+          //    input.form-control(type='password' required='' id='privpass' placeholder='Passphrase to encrypt/secure your SSH key' name='privpass')
+          //  button.btn.btn-primary(type='submit', disabled='') Use GIT
 
           form(method='POST' action='/create_struct')
             div.form-group

@@ -8,18 +8,18 @@ var router = express.Router();
 router.get('/', function (req, res, next) {
 
     console.log('COOKIE: '+req.cookies);
-    if (!req.cookies.proj_path){
+    if (!req.session.proj_path){
         res.redirect('/');
     } else {
-        res.cookie('proj_path',req.cookies.proj_path ).render('teams', {proj_path: req.cookies.proj_path});
+        res.cookie('proj_path',req.session.proj_path ).render('teams', {proj_path: req.session.proj_path});
     }
 });
 
 /* SET proj/git PATH */
 router.post('/', function (req, res, next) {
-    console.log('POST TEAMS: '+req.cookies.proj_path)
-    req.cookies.proj_path = req.body.proj_path;
-    res.cookie('proj_path',req.cookies.proj_path ).render('teams', {proj_path: req.cookies.proj_path});
+    console.log('POST TEAMS: '+req.session.proj_path)
+    req.session.proj_path = req.body.proj_path;
+    res.cookie('proj_path',req.session.proj_path ).render('teams', {proj_path: req.session.proj_path});
 });
 
 module.exports = router;

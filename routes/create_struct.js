@@ -1,5 +1,3 @@
-'use strict'
-
 var express = require('express');
 var router = express.Router();
 const fs = require('fs-extra');
@@ -8,11 +6,11 @@ const fs = require('fs-extra');
 /* GET home page. */
 router.post('/', function (req, res, next) {
 
-    req.cookies.proj_path = req.body.proj_path;
+    req.session.proj_path = req.body.proj_path;
 
     // CREATE PROJECT DIR
     try {
-        const dir = 'public/projects/'+req.cookies.proj_path+'/vars';
+        const dir = 'public/projects/'+req.session.proj_path+'/vars';
         fs.ensureDirSync(dir)
         console.log('success!');
     } catch (err) {
@@ -33,13 +31,7 @@ router.post('/', function (req, res, next) {
         console.error(err);
     }
 
-// create files
-// ├── main.yml
-// ├── servers.yml
-// ├── teams.yml
-// └── users.yml
-
-    res.cookie('proj_path',req.cookies.proj_path ).render('create_struct', {proj_path: req.cookies.proj_path});
+    res.cookie('proj_path',req.session.proj_path ).render('create_struct', {proj_path: req.session.proj_path});
 });
 
 
