@@ -1,0 +1,14 @@
+---
+servers:
+  mysamplehost:
+    name: samplehost
+    teams: [samplegroup]
+  Ypsilon:
+    name: zeta
+    teams: undefined
+  Kokotina:
+    name: ale strasna
+    teams: undefined
+  Picovina:
+    name: este strasnejsia
+    teams: undefined

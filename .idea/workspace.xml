@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5157c56-0d3d-45a6-92e8-8c89dbc3d696" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/create_struct.js" afterPath="$PROJECT_DIR$/routes/create_struct.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/export.pug" afterPath="$PROJECT_DIR$/views/export.pug" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/create_server.js" afterPath="$PROJECT_DIR$/routes/create_server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,42 +17,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_struct.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/create_struct.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="export.pug" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/export.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+            <state relative-caret-position="318">
+              <caret line="115" column="39" lean-forward="false" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_down.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/export_down.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="export_down.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/export_down.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teams.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/teams.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/create_server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -75,27 +84,34 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/routes/index.js" />
-        <option value="$PROJECT_DIR$/routes/teams.js" />
-        <option value="$PROJECT_DIR$/routes/servers.js" />
-        <option value="$PROJECT_DIR$/routes/users.js" />
         <option value="$PROJECT_DIR$/routes/export.js" />
-        <option value="$PROJECT_DIR$/views/layout.pug" />
         <option value="$PROJECT_DIR$/routes/exit.js" />
         <option value="$PROJECT_DIR$/views/exit.pug" />
-        <option value="$PROJECT_DIR$/views/layout_new.pug" />
         <option value="$PROJECT_DIR$/views/layout_exit.pug" />
-        <option value="$PROJECT_DIR$/routes/logout.js" />
-        <option value="$PROJECT_DIR$/views/servers.pug" />
         <option value="$PROJECT_DIR$/views/teams.pug" />
         <option value="$PROJECT_DIR$/views/users.pug" />
         <option value="$PROJECT_DIR$/views/logout.pug" />
-        <option value="$PROJECT_DIR$/views/index.pug" />
-        <option value="$PROJECT_DIR$/views/create_struct.pug" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
-        <option value="$PROJECT_DIR$/routes/create_struct.js" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/views/export.pug" />
+        <option value="$PROJECT_DIR$/views/export_git.pug" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/views/layout.pug" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/routes/create_git.js" />
+        <option value="$PROJECT_DIR$/routes/logout.js" />
+        <option value="$PROJECT_DIR$/routes/teams.js" />
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/routes/export_git.js" />
+        <option value="$PROJECT_DIR$/routes/create_struct.js" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/views/layout_new.pug" />
+        <option value="$PROJECT_DIR$/views/export_down.pug" />
+        <option value="$PROJECT_DIR$/routes/export_down.js" />
+        <option value="$PROJECT_DIR$/views/servers.pug" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/create_server.pug" />
+        <option value="$PROJECT_DIR$/routes/servers.js" />
+        <option value="$PROJECT_DIR$/views/create_struct.pug" />
+        <option value="$PROJECT_DIR$/routes/create_server.js" />
       </list>
     </option>
   </component>
@@ -118,8 +134,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="192" />
-    <option name="y" value="135" />
+    <option name="x" value="274" />
+    <option name="y" value="64" />
     <option name="width" value="1595" />
     <option name="height" value="941" />
   </component>
@@ -167,8 +183,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,8 +200,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/routes" />
       <recent name="$PROJECT_DIR$/views" />
+      <recent name="$PROJECT_DIR$/routes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,20 +265,23 @@
       <workItem from="1502178162414" duration="4929000" />
       <workItem from="1502194110783" duration="9031000" />
       <workItem from="1502260856879" duration="1979000" />
-      <workItem from="1502263548787" duration="2973000" />
+      <workItem from="1502263548787" duration="10333000" />
+      <workItem from="1502348227308" duration="3471000" />
+      <workItem from="1502352795247" duration="11428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35237000" />
+    <option name="totallyTimeSpent" value="57496000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="192" y="135" width="1595" height="941" extended-state="0" />
+    <frame x="274" y="64" width="1595" height="941" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Api Debugger" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21755485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21755485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955974" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -316,125 +335,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/routes/servers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/export.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/export.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/servers.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/users.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="23" column="53" lean-forward="false" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout_new.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/teams.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/teams.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="23" column="53" lean-forward="false" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout_new.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -470,66 +370,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/servers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="57" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/export.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="13" column="69" lean-forward="false" selection-start-line="13" selection-start-column="69" selection-end-line="13" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout_new.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/logout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/layout_exit.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/servers.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -554,20 +398,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/teams.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -583,114 +413,809 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/create_struct.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects/LKJDF/vars/teams.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/XSAFD934753928475/vars/servers.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/XSAFD934753928475/vars/teams.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/KJRTE034750/vars/users.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/KJRTE034750/vars/teams.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/KJRTE034750/vars/servers.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/BRTANlksdafjkfdslkjf90320943032990438208/vars/servers.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/BRTANlksdafjkfdslkjf90320943032990438208/vars/teams.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/BRTANlksdafjkfdslkjf90320943032990438208/vars/users.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/ONDRO666/vars/servers.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/ONDRO666/vars/teams.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/ONDRO666/vars/users.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/ADAM666/vars/servers.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/ADAM666/vars/teams.yaml" />
+    <entry file="file://$PROJECT_DIR$/public/projects/ADAM666/vars/users.yaml" />
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/peterducai/CODE/ansible_userman">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/Channel.js#DuplexStream#60;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/Channel.js#ReadableStream#107;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/Channel.js#STDERR#198;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/Channel.js#WritableStream#156;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/Channel.js#inherits#15;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/Gruntfile.js#BsLessdocParser#505;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#fs#400;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#generateCommonJSModule#915;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#generateRawFiles#844;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#load-grunt-tasks#8988;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#npmShrinkwrap#456;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#path#426;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/Gruntfile.js#time-grunt#9056;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/SFTPWrapper.js#EventEmitter#288;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/SFTPWrapper.js#inherits#243;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/js/vendor/ZeroClipboard.min.js;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/ZeroClipboard.min.js;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/ZeroClipboard.min.js;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/about.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/affix.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/affix.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/affix.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/agent.js#EventEmitter#55;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/agent.js#Socket#13;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/agent.js#cp#184;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/agent.js#fs#160;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/agent.js#inherits#102;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/agent.js#path#132;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/alert.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/alert.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/alert.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/amdefine/amdefine.js</node>
+            <node x="" y="">$PROJECT_DIR$/app.js#bodyParser#183;/home/peterducai/CODE/ansible_userman/app.js#compression#596;/home/peterducai/CODE/ansible_userman/app.js#cookieParser#138;/home/peterducai/CODE/ansible_userman/app.js#create_struct#439;/home/peterducai/CODE/ansible_userman/app.js#export_down#543;/home/peterducai/CODE/ansible_userman/app.js#export_git#494;/home/peterducai/CODE/ansible_userman/app.js#express#4;/home/peterducai/CODE/ansible_userman/app.js#favicon#66;/home/peterducai/CODE/ansible_userman/app.js#index#238;/home/peterducai/CODE/ansible_userman/app.js#logger#106;/home/peterducai/CODE/ansible_userman/app.js#logout#398;/home/peterducai/CODE/ansible_userman/app.js#path#38;/home/peterducai/CODE/ansible_userman/app.js#servers#316;/home/peterducai/CODE/ansible_userman/app.js#teams#277;/home/peterducai/CODE/ansible_userman/app.js#users#359;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/application.js#Router#274;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#View#485;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#compileETag#557;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#compileQueryParser#614;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#compileTrust#672;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#debug#432;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#deprecate#709;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#finalhandler#230;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#flatten#753;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#http#515;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#merge#793;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#methods#308;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#middleware#342;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#query#389;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#resolve#839;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/application.js#setPrototypeOf#868;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/array-flatten/array-flatten.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/util/assign.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/attributes.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/attributes.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#ArraySet#891727;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#AtRule#865688;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Base64#859957;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Buffer#872159;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Comment#856166;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Container#795112;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#CssSyntaxError#837883;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Declaration#856122;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#MapGenerator#863914;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Node#798477;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#PreviousMap#837935;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Result#823387;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Root#856322;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#Rule#856285;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#SourceMapConsumer#878743;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#SourceMapGenerator#878650;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#SourceNode#878827;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#_process#956684;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#agents#5933;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#align-content#86016;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#align-items#85802;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#align-self#85698;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#background-img-opts#12431;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#background-size#86295;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#base64#113468;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#base64VLQ#909863;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#binarySearch#891667;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#border-image#85962;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#border-radius#8185;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#break-inside#85908;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#browsers#1073;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#calc#12270;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-animation#8686;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-boxshadow#8506;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-filters#10570;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-gradients#9810;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-hyphens#13592;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-masks#15601;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-placeholder#13208;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-selection#13029;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-sticky#14725;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css-transitions#9042;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css3-boxsizing#10413;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css3-cursors-newer#14367;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#css3-tabsize#13919;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#declaration#47207;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#define#938590;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#display-flex#86436;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#fill-available#86532;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#filter#85497;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#filter-value#86484;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex#85404;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-basis#85750;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-direction#86182;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-flow#85545;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-grow#85596;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-shrink#85855;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-spec#52210;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flex-wrap#85647;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#flexbox#11326;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#font-feature#12638;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#fs#860021;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#fullscreen#13743;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#gradient#86346;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#ieee754#113502;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#info#3291;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#intrinsic-width#14072;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#isArray#113535;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#justify-content#86238;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#keyframes#85119;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#list#868799;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#mozilla#823422;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#multicolumn#10744;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#old-selector#102481;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#old-value#42130;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#order#85450;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#parse#859323;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#path#947658;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#placeholder#85351;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#pointer#14901;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#postcss#1039;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#prefixer#78172;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#prefixes#1110;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#processor#85080;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#selector#85231;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#supports#85157;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#text-decoration#15062;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#text-size-adjust#15436;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#transform-decl#86126;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#transform-value#86582;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#transforms2d#9322;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#transforms3d#9520;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#transition#86390;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#user-select-none#11166;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#util#879381;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#utils#24253;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#value#85265;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/vendor/autoprefixer.js#vendor#818463;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/support/benchmark.js#pug#71;/home/peterducai/CODE/ansible_userman/node_modules/pug/support/benchmark.js#uubench#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/binary.js#Type#226;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/blame.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/blob.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/blog/blog.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/bool.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/dist/css/bootstrap-theme.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/dist/css/bootstrap.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/dist/js/bootstrap.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/dist/css/bootstrap.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/dist/css/bootstrap.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/dist/js/bootstrap.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/browser.js#debug.js#130;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/grunt/bs-commonjs-generator.js#fs#18;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/grunt/bs-commonjs-generator.js#path#42;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/grunt/bs-lessdoc-parser.js#Remarkable#216;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/grunt/bs-raw-files-generator.js#btoa#288;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/grunt/bs-raw-files-generator.js#fs#264;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/grunt/bs-raw-files-generator.js#glob#316;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/util/buffer.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/utils/buildFlags.js#fs#4;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/utils/buildFlags.js#path#28;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/button.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/button.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/button.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/carousel/carousel.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/carousel.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/js/carousel.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/carousel.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/carousel.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/checkout.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/cherrypick.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/clean.js#cleanForPublish#4;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/clean.js#path#56;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/client.js#Channel#607;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#EventEmitter#126;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#SFTPWrapper#680;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#Server#46146;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#Socket#45;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#agentQuery#643;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#crypto#4;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#dnsLookup#84;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#inherits#173;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#server.js#46162;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/client.js#ssh2_streams#237;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/clone.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/code.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/code.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/collapse.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/collapse.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/collapse.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/commit.js#NodeGit#51;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/commit.js#events#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/common.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/img/components.png</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/config.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/configureLibssh2.js#cp#4;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/configureLibssh2.js#path#39;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/convenient_hunks.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/convenient_patch.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-file-sync.js#_buff#84;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy-sync/copy-file-sync.js#fs#20;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/copy-sync.js#copyFileSync#83;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy-sync/copy-sync.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy-sync/copy-sync.js#mkdir#132;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy-sync/copy-sync.js#path#54;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/copy/copy.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/copy.js#mkdir#112;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/copy.js#ncp#83;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/copy.js#path#54;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/copy.js#pathExists#160;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/core.js#Schema#256;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/core.js#json.js#336;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/lib/counter.js#EventEmitter#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/cover/cover.css</node>
+            <node x="" y="">$PROJECT_DIR$/routes/create_struct.js#express#18;/home/peterducai/CODE/ansible_userman/routes/create_struct.js#fs#85;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/js/customize.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/dashboard/dashboard.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/debug.js#index.js#354;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/default_full.js#Schema#354;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_full.js#default_safe.js#451;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_full.js#function.js#571;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_full.js#regexp.js#537;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_full.js#undefined.js#500;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#Schema#277;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#binary.js#480;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#core.js#357;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#merge.js#432;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#omap.js#511;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#pairs.js#540;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#set.js#570;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/default_safe.js#timestamp.js#398;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/img/devices.png</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/diff.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/diff_file.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/diff_line.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/storage/disk.js#crypto#77;/home/peterducai/CODE/ansible_userman/node_modules/multer/storage/disk.js#fs#4;/home/peterducai/CODE/ansible_userman/node_modules/multer/storage/disk.js#mkdirp#108;/home/peterducai/CODE/ansible_userman/node_modules/multer/storage/disk.js#os#27;/home/peterducai/CODE/ansible_userman/node_modules/multer/storage/disk.js#path#50;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/css/src/docs.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/css/docs.min.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/js/docs.min.js;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/docs.min.js;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/assets/js/docs.min.js;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/getting-started/download.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/dropdown.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/dropdown.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/dropdown.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/dumper.js#DEFAULT_FULL_SCHEMA#157;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/dumper.js#DEFAULT_SAFE_SCHEMA#217;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/dumper.js#YAMLException#107;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/dumper.js#common#60;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/dynamicscript.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/each.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/each.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/enums.js#NodeGit#95;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/getting-started/examples.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/exception.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/utils/execPromise.js#cp#4;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/export_down.js#express#18;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/export_git.js#express#18;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/express.js#EventEmitter#233;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#Route#349;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#Router#388;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#index.js#1513;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#mixin#269;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#proto#311;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#query.js#1465;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#req#422;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/express.js#res#454;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/extend.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/extend.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/failsafe.js#Schema#110;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/failsafe.js#map.js#247;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/failsafe.js#seq.js#219;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/failsafe.js#str.js#191;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/favicon.ico</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/lib/file-appender.js#objectAssign#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/file.js#fs#96;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/file.js#mkdir#130;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/file.js#path#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/file.js#pathExists#178;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/file.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/float.js#Type#54;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/type/float.js#common#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/footer.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/form.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/form.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/lodash/fp.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/js/function.js#Type#520;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/submodules/getStatus.js#path#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/utils/gitExecutableLocation.js#cp#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/glob/glob.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/graceful-fs/graceful-fs.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/grid/grid.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/header.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/js/ie-emulation-modes-warning.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/js/ie10-viewport-bug-workaround.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/css/images.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/xtend/immutable.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/includes.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/includes.js#str#108;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/iconv-lite/lib/index.d.ts</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/sticky-footer-navbar/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/navbar-static-top/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/tooltip-viewport/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/starter-template/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/navbar-fixed-top/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/jumbotron-narrow/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/non-responsive/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/sticky-footer/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/justified-nav/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/offcanvas/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/jumbotron/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/dashboard/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/carousel/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/signin/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/navbar/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/theme/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/cover/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/grid/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/blog/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/index.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fresh/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/routes/index.js#express#18;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/concat-stream/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/methods/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/index.js#browser.js#186;/home/peterducai/CODE/ansible_userman/node_modules/debug/src/index.js#node.js#239;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie-parser/index.js#cookie#190;/home/peterducai/CODE/ansible_userman/node_modules/cookie-parser/index.js#signature#222;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/lib/index.js#filters#343;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#fs#141;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#generateCode#415;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#lex#193;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#link#381;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#load#311;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#parse#276;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#path#165;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#runtime#459;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#runtimeWrap#497;/home/peterducai/CODE/ansible_userman/node_modules/pug/lib/index.js#stripComments#225;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/index.js#yaml#20;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/index.js#deprecate#156;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/index.js#json.js#2302;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/index.js#raw.js#2373;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/index.js#text.js#2444;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/index.js#urlencoded.js#2522;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/parseurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/submodules/index.js#path#4;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/submodules/index.js#submoduleStatus#172;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-load/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/vary/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/raw-body/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/escape-html/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/statuses/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/object-assign/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-favicon/index.js#Buffer#236;/home/peterducai/CODE/ansible_userman/node_modules/serve-favicon/index.js#etag#270;/home/peterducai/CODE/ansible_userman/node_modules/serve-favicon/index.js#fresh#297;/home/peterducai/CODE/ansible_userman/node_modules/serve-favicon/index.js#fs#326;/home/peterducai/CODE/ansible_userman/node_modules/serve-favicon/index.js#ms#349;/home/peterducai/CODE/ansible_userman/node_modules/serve-favicon/index.js#parseUrl#372;/home/peterducai/CODE/ansible_userman/node_modules/serve-favicon/index.js#path#407;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/basic-auth/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/http-errors/index.js</node>
+            <node x="" y="">Buffer;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/index.js#Layer#262;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#Route#230;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#debug#364;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#deprecate#412;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#flatten#456;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#methods#294;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#mixin#328;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#parseUrl#496;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/index.js#setPrototypeOf#532;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/index.js#express.js#198;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/accepts/index.js</node>
+            <node x="" y="">mime;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-finished/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-filters/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/path-to-regexp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/promisify-node/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/setprototypeof/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/index.js#diskStorage#103;/home/peterducai/CODE/ansible_userman/node_modules/multer/index.js#makeError#4;/home/peterducai/CODE/ansible_userman/node_modules/multer/index.js#makeMiddleware#48;/home/peterducai/CODE/ansible_userman/node_modules/multer/index.js#memoryStorage#147;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/morgan/index.js#auth#411;/home/peterducai/CODE/ansible_userman/node_modules/morgan/index.js#debug#444;/home/peterducai/CODE/ansible_userman/node_modules/morgan/index.js#deprecate#483;/home/peterducai/CODE/ansible_userman/node_modules/morgan/index.js#onFinished#525;/home/peterducai/CODE/ansible_userman/node_modules/morgan/index.js#onHeaders#565;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-runtime/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/on-headers/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/mkdirp/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/utils-merge/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/proxy-addr/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/type-is/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/append-field/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-linker/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/qs/lib/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/etag/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/argparse/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compression/index.js#Buffer#301;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#accepts#259;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#bytes#335;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#compressible#364;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#debug#407;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#onHeaders#451;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#vary#489;/home/peterducai/CODE/ansible_userman/node_modules/compression/index.js#zlib#516;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ms/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/depd/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-type/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/finalhandler/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/fs/index.js#fs#185;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/fs/index.js#u#142;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/move-sync/index.js#buffer#235;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move-sync/index.js#copySync#94;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move-sync/index.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move-sync/index.js#mkdirpSync#197;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move-sync/index.js#path#54;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move-sync/index.js#removeSync#146;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/path-exists/index.js#fs#65;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/path-exists/index.js#pathExists#202;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/path-exists/index.js#u#23;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/encodeurl/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/cookie/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compressible/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/index.js#NodeGit#19;</node>
+            <node x="" y="">fromCallback;fromPromise;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-lexer/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-code-gen/index.js</node>
+            <node x="" y="">sign;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/range-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/serve-static/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/merge-descriptors/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/index.js#assign#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/index.js#index.js#346;</node>
+            <node x="" y="">constants.CHANNEL_EXTENDED_DATATYPE.STDERR;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-strip-comments/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-parser/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/copy/index.js#copy.js#76;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/index.js#u#10;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/json/index.js#jsonFile#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/index.js#output-json-sync.js#177;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/index.js#output-json.js#125;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/index.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/move/index.js#fs#246;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move/index.js#mkdirp#396;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move/index.js#ncp#280;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move/index.js#path#315;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move/index.js#remove#353;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/move/index.js#u#203;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/empty/index.js#fs#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/empty/index.js#mkdir#121;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/empty/index.js#path#92;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/empty/index.js#remove#156;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/empty/index.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/node-rijndael/index.js#lib#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/index.js#file#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/index.js#link#51;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/index.js#symlink#82;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/content-disposition/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/index.js#mkdirs#164;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/index.js#mkdirsSync#182;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/index.js#u#23;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/output/index.js#fs#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/output/index.js#mkdir#130;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/output/index.js#path#101;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/output/index.js#pathExists#178;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/output/index.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/remove/index.js#remove#118;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/remove/index.js#removeSync#139;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/remove/index.js#rimraf#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/remove/index.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/copy-sync/index.js#copy-sync.js#31;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy-sync/index.js#copySync#21;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/compression/node_modules/bytes/index.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/init.js#setPrototypeOf#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/install.js#buildFlags#4;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/install.js#spawn#61;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/int.js#Type#54;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/type/int.js#common#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/vendor/jquery.min.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/dist/js-yaml.js#DEFAULT_FULL_SCHEMA#31156;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#DEFAULT_SAFE_SCHEMA#31096;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#Mark#31051;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#Schema#78429;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#Type#94688;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#YAMLException#81290;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#binary#79846;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#bool#81035;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#common#90206;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#core#1455;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#default_full#1605;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#default_safe#79055;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#dumper#962;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#exception#2002;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#failsafe#80961;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#float#81092;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#function#79175;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#int#81064;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#json#1384;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#loader#920;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#map#80399;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#merge#79798;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#null#81006;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#omap#79877;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#pairs#79906;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#regexp#79141;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#schema#1243;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#seq#80371;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#set#79936;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#str#80343;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#timestamp#79764;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#type#1179;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#undefined#79104;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/dist/js-yaml.js#yaml#106177;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml.js#core.js#555;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#default_full.js#705;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#default_safe.js#626;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#dumper#62;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#exception.js#1102;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#failsafe.js#409;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#json.js#484;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#loader#20;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#schema.js#343;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml.js#type.js#279;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/bin/js-yaml.js#argparse#125;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/bin/js-yaml.js#cli#357;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/bin/js-yaml.js#fs#83;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/bin/js-yaml.js#yaml#175;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema/json.js#Schema#342;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/json.js#bool.js#496;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/json.js#failsafe.js#422;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/json.js#float.js#553;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/json.js#int.js#525;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema/json.js#null.js#467;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/json.js#bytes#190;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/json.js#contentType#219;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/json.js#createError#261;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/json.js#debug#302;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/json.js#read#351;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/json.js#typeis#381;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/json/jsonfile.js#jsonFile#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/jsonfile.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/jumbotron-narrow/jumbotron-narrow.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/jumbotron/jumbotron.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/justified-nav/justified-nav.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/keepalivemgr.js#spliceOne#16;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/layer.js#debug#274;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/layer.js#pathRegexp#230;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/layout-debug.js#pug#38;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/layout.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/layout.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/link.js#fs#96;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/link.js#mkdir#130;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/link.js#path#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/link.js#pathExists#178;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/link.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/loader.js#DEFAULT_FULL_SCHEMA#270;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/loader.js#DEFAULT_SAFE_SCHEMA#210;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/loader.js#Mark#165;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/loader.js#YAMLException#115;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/loader.js#common#68;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/logout.js#express#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/utils/lookup_wrapper.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/busboy/lib/main.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/lib/make-error.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/lib/make-middleware.js#Busboy#32;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#Counter#176;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#FileAppender#251;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#appendField#133;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#extend#63;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#is#4;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#makeError#211;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#onFinished#93;/home/peterducai/CODE/ansible_userman/node_modules/multer/lib/make-middleware.js#removeUploadedFiles#297;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/map.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/mark.js#common#20;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/components/media.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/storage/memory.js#concat#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/merge.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/merge.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/mixins.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/mixins.js#str#106;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js#invalidWin32Path#102;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js#path#54;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/mkdirs.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/mkdirs.js#invalidWin32Path#102;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/mkdirs.js#path#54;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/modal.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/modal.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/modal.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/navbar-fixed-top/navbar-fixed-top.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/navbar-static-top/navbar-static-top.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/navbar/navbar.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/components/navbar.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/copy/ncp.js#fs#60;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/ncp.js#path#92;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/copy/ncp.js#utimes#119;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/src/node.js#debug.js#214;/home/peterducai/CODE/ansible_userman/node_modules/debug/src/node.js#fs#4359;/home/peterducai/CODE/ansible_userman/node_modules/debug/src/node.js#net#4528;/home/peterducai/CODE/ansible_userman/node_modules/debug/src/node.js#tty#37;/home/peterducai/CODE/ansible_userman/node_modules/debug/src/node.js#util#63;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/debug/node.js#node.js#17;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/nodegit.js#enums.js#24955;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#importExtension#24496;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#lookup_wrapper.js#24753;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#nodegit.node#262;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#normalize_fetch_options.js#24860;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#normalize_options.js#24788;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#promisify#97;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#shallow_clone.js#24826;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#status_file.js#24929;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/nodegit.js#version#30429;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/build/Release/nodegit.node</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/non-responsive/non-responsive.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/utils/normalize_fetch_options.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/utils/normalize_options.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/note.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/dist/js/npm.js#affix.js#456;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#alert.js#150;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#button.js#179;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#carousel.js#209;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#collapse.js#241;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#dropdown.js#273;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#modal.js#305;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#popover.js#365;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#scrollspy.js#396;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#tab.js#429;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#tooltip.js#334;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/docs/dist/js/npm.js#transition.js#116;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/dist/js/npm.js#affix.js#456;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#alert.js#150;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#button.js#179;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#carousel.js#209;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#collapse.js#241;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#dropdown.js#273;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#modal.js#305;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#popover.js#365;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#scrollspy.js#396;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#tab.js#429;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#tooltip.js#334;/home/peterducai/CODE/ansible_userman/public/bootstrap-3.3.1/dist/js/npm.js#transition.js#116;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/null.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/object.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/odb.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/odb_object.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/offcanvas/offcanvas.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/offcanvas/offcanvas.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/oid.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/omap.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json-sync.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/output-json-sync.js#jsonFile#118;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/output-json-sync.js#mkdir#83;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/output-json-sync.js#path#54;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/json/output-json.js#jsonFile#140;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/output-json.js#mkdir#49;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/output-json.js#path#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/json/output-json.js#pathExists#97;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/package.json#version#5212;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/package.json#version#3045;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/pairs.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/popover.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/popover.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/popover.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/postinstall.js#buildFlags#108;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/postinstall.js#exec#64;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/postinstall.js#fse#4;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/lifecycleScripts/postinstall.js#path#35;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/lifecycleScripts/preinstall.js#path#4;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/css/src/pygments-manni.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/middleware/query.js#merge#218;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/middleware/query.js#parseUrl#253;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/middleware/query.js#qs#289;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/vendor/qunit.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/vendor/qunit.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/raw.js#bytes#144;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/raw.js#debug#173;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/raw.js#read#221;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/raw.js#typeis#251;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/read.js#createError#156;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/read.js#getBody#197;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/read.js#iconv#231;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/read.js#onFinished#265;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/read.js#zlib#305;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/rebase.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/reference.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/js/regexp.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/register.js#pug#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/remote.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/multer/lib/remove-uploaded-files.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/repository.js#NodeGit#801;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/repository.js#fp#770;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/repository.js#fse#728;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/repository.js#path#1020;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/repository.js#promisify#685;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/request.js#accepts#230;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#deprecate#264;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#fresh#401;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#http#373;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#isIP#315;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#parse#473;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#parseRange#431;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#proxyaddr#506;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/request.js#typeis#340;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/reset.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/response.js#contentDisposition#194;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#cookie#793;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#deprecate#251;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#encodeUrl#295;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#escapeHtml#333;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#http#374;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#isAbsolute#415;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#merge#554;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#normalizeType#651;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#normalizeTypes#706;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#onFinished#450;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#path#491;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#send#825;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#setCharset#758;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#sign#597;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#statuses#519;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/response.js#vary#931;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/revert.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/revwalk.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/node-rijndael/examples/rijndael.js#Rijndael#4;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/node-rijndael/build/Release/rijndael.node</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/remove/rimraf.js#assert#83;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/remove/rimraf.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/remove/rimraf.js#path#54;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/router/route.js#Layer#324;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/route.js#debug#230;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/route.js#flatten#284;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/router/route.js#methods#356;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/rss.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/rss.js#str#103;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/assets/img/sass-less.png</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/schema.js#Type#132;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema.js#YAMLException#88;/home/peterducai/CODE/ansible_userman/node_modules/js-yaml/lib/js-yaml/schema.js#common#47;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/scrollspy.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/scrollspy.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/scrollspy.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/seq.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/examples/server-chat.js#Server#437;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/examples/server-chat.js#blessed#394;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/examples/server-chat.js#fs#369;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/server.js#Channel#623;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/server.js#EventEmitter#45;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/server.js#KeepaliveManager#659;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/server.js#inherits#140;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/server.js#net#4;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/lib/server.js#ssh2_streams#171;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/servers.js#express#18;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/set.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/examples/sftp-server-download-only.js#constants#4;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/examples/sftp-server-download-only.js#fs#42;/home/peterducai/CODE/ansible_userman/node_modules/ssh2/examples/sftp-server-download-only.js#ssh2#67;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/utils/shallow_clone.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/signature.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/signin/signin.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/source-map/lib/source-map.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/starter-template/starter-template.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/stash.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/status.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/status_file.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/status_list.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/sticky-footer/sticky-footer.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/str.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/submodule.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-paths.js#fs#49;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink-paths.js#path#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink-paths.js#pathExists#96;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink-type.js#fs#20;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/ensure/symlink.js#_mkdirs#130;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink.js#_symlinkPaths#236;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink.js#_symlinkType#390;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink.js#fs#96;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink.js#path#67;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink.js#pathExists#549;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/ensure/symlink.js#u#24;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/tab.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/tab.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tab.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/tag.js#NodeGit#19;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/teams.js#express#18;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/_includes/getting-started/template.html</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/text.js#bytes#144;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/text.js#contentType#173;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/text.js#debug#215;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/text.js#read#264;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/text.js#typeis#294;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/text.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/text.js#str#104;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/theme/theme.css</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/timestamp.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/tooltip-viewport/tooltip-viewport.css</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/docs/examples/tooltip-viewport/tooltip-viewport.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/visual/tooltip.html</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tests/unit/tooltip.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/tooltip.js</node>
+            <node x="" y="">$PROJECT_DIR$/public/bootstrap-3.3.1/js/transition.js</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/tree.js#NodeGit#79;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/tree.js#events#47;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/tree.js#path#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/nodegit/dist/tree_entry.js#NodeGit#47;/home/peterducai/CODE/ansible_userman/node_modules/nodegit/dist/tree_entry.js#path#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type.js#YAMLException#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/type/js/undefined.js#Type#19;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js#bytes#190;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#contentType#219;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#createError#261;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#debug#302;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#deprecate#357;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#index.js#4477;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#querystring#4539;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#read#404;/home/peterducai/CODE/ansible_userman/node_modules/body-parser/lib/types/urlencoded.js#typeis#434;</node>
+            <node x="" y="">$PROJECT_DIR$/routes/users.js#express#18;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/utils.js#compileETag#3405;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#compileQueryParser#3955;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#compileTrust#4605;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#contentDisposition#198;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#contentType#255;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#deprecate#298;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#etag#415;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#flatten#342;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#isAbsolute#1267;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#mime#389;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#normalizeType#1874;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#normalizeTypes#2152;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#proxyaddr#443;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#qs#482;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#querystring#506;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/utils.js#setCharset#5202;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/ssh2/lib/utils.js#spliceOne#0;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/util/utimes.js#fs#20;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/util/utimes.js#os#54;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/util/utimes.js#path#79;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/express/lib/view.js#__express#1537;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/view.js#debug#230;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/view.js#fs#304;/home/peterducai/CODE/ansible_userman/node_modules/express/lib/view.js#path#276;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/examples/whitespace.js#pug#38;/home/peterducai/CODE/ansible_userman/node_modules/pug/examples/whitespace.js#str#110;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/fs-extra/lib/mkdirs/win32.js#invalidWin32Path#498;/home/peterducai/CODE/ansible_userman/node_modules/fs-extra/lib/mkdirs/win32.js#path#20;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug-runtime/wrap.js</node>
+            <node x="" y="">$PROJECT_DIR$/bin/www#app#58;/home/peterducai/CODE/ansible_userman/bin/www#debug#87;/home/peterducai/CODE/ansible_userman/bin/www#http#140;</node>
+            <node x="" y="">...</node>
+            <node x="" y="">../../assets/ico/favicon.ico</node>
+            <node x="" y="">../assets/brand/bootstrap-outline.svg</node>
+            <node x="" y="">../assets/brand/bootstrap-punchout.svg</node>
+            <node x="" y="">../assets/brand/bootstrap-solid.svg</node>
+            <node x="" y="">../examples/screenshots/blog.jpg</node>
+            <node x="" y="">../examples/screenshots/carousel.jpg</node>
+            <node x="" y="">../examples/screenshots/cover.jpg</node>
+            <node x="" y="">../examples/screenshots/dashboard.jpg</node>
+            <node x="" y="">../examples/screenshots/grid.jpg</node>
+            <node x="" y="">../examples/screenshots/jumbotron-narrow.jpg</node>
+            <node x="" y="">../examples/screenshots/jumbotron.jpg</node>
+            <node x="" y="">../examples/screenshots/justified-nav.jpg</node>
+            <node x="" y="">../examples/screenshots/navbar-fixed.jpg</node>
+            <node x="" y="">../examples/screenshots/navbar-static.jpg</node>
+            <node x="" y="">../examples/screenshots/navbar.jpg</node>
+            <node x="" y="">../examples/screenshots/non-responsive.jpg</node>
+            <node x="" y="">../examples/screenshots/offcanvas.jpg</node>
+            <node x="" y="">../examples/screenshots/sign-in.jpg</node>
+            <node x="" y="">../examples/screenshots/starter-template.jpg</node>
+            <node x="" y="">../examples/screenshots/sticky-footer-navbar.jpg</node>
+            <node x="" y="">../examples/screenshots/sticky-footer.jpg</node>
+            <node x="" y="">../examples/screenshots/theme.jpg</node>
+            <node x="" y="">/apple-touch-icon.png</node>
+            <node x="" y="">/favicon.ico</node>
+            <node x="" y="">_process</node>
+            <node x="" y="">affix.js</node>
+            <node x="" y="">alert.js</node>
+            <node x="" y="">align-content</node>
+            <node x="" y="">align-items</node>
+            <node x="" y="">align-self</node>
+            <node x="" y="">ArraySet;</node>
+            <node x="" y="">assert</node>
+            <node x="" y="">at-rule</node>
+            <node x="" y="">background-img-opts</node>
+            <node x="" y="">background-size</node>
+            <node x="" y="">base64</node>
+            <node x="" y="">base64-js</node>
+            <node x="" y="">base64-vlq</node>
+            <node x="" y="">binary</node>
+            <node x="" y="">binary-search</node>
+            <node x="" y="">blessed</node>
+            <node x="" y="">bool</node>
+            <node x="" y="">border-image</node>
+            <node x="" y="">border-radius</node>
+            <node x="" y="">break-inside</node>
+            <node x="" y="">browsers</node>
+            <node x="" y="">btoa</node>
+            <node x="" y="">button.js</node>
+            <node x="" y="">calc</node>
+            <node x="" y="">carousel.js</node>
+            <node x="" y="">spawn;</node>
+            <node x="" y="">clean-for-publish</node>
+            <node x="" y="">collapse.js</node>
+            <node x="" y="">comment</node>
+            <node x="" y="">common</node>
+            <node x="" y="">constants</node>
+            <node x="" y="">container</node>
+            <node x="" y="">core</node>
+            <node x="" y="">crypto</node>
+            <node x="" y="">css-animation</node>
+            <node x="" y="">css-boxshadow</node>
+            <node x="" y="">css-filters</node>
+            <node x="" y="">css-gradients</node>
+            <node x="" y="">css-hyphens</node>
+            <node x="" y="">css-masks</node>
+            <node x="" y="">css-placeholder</node>
+            <node x="" y="">css-selection</node>
+            <node x="" y="">css-sticky</node>
+            <node x="" y="">css-syntax-error</node>
+            <node x="" y="">css-transitions</node>
+            <node x="" y="">css/bootstrap.min.css</node>
+            <node x="" y="">css3-boxsizing</node>
+            <node x="" y="">css3-cursors-newer</node>
+            <node x="" y="">css3-tabsize</node>
+            <node x="" y="">agents;</node>
+            <node x="" y="">data:image/gif;base64,R0lGODlhAQABAIAAAFVVVQAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==</node>
+            <node x="" y="">data:image/gif;base64,R0lGODlhAQABAIAAAGZmZgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==</node>
+            <node x="" y="">data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==</node>
+            <node x="" y="">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJgAAACYCAYAAAAYwiAhAAAMU0lEQVR4AeyZzU4TARSFhx08ienKiAsSSymliEjpdBBqoUX++gMJupZC/6B0prPUhIRI4qvIwoUhxAU8gBKiS0kkYQW5npsUAZloy4xYp3fxJSxYDMOXc07uKETkGJmI6clo5iLYmtfMbXAwP2IeA2oNqo6Q0W6N40ykegC205HqFlgEHiedcECq6j0ItQGZDptcABGqXiLVQ7CRVo3OfyLYU1+uDQ+iQaqdyy8cD0Szj9fp2cM1SvSVaNxfoFhPnvD7LmDFEaLdzQP/Xfz/iQeKNNm/SjODZUqFK7/IZuykVV2Ldi+33YpgMLsLibV7LlUqbNDUwBrLxA8sMlkI1bwsWwHpcgiJEiWHL2RLRYzdlKp3/TXBkE4dXIWQ6gzQXKhC8b6iCPWfy2TF2CXGA3maGSpTGpKBs3TE2EyG9Q5HBYNYHki1f55YLJbI5A6hxuqERZsbrtREM/aRaB5HBEMl+hZGzCPsLd5WIpQL0skOif4SIcW4No9SquGzJRjkUpFaJzzeJwJFkckV6WSfWG+e9xmLdoJGU28kGOTyslzJYZ1i/rwLZJJ0soX3KlG8t9mh9ZpkurchwXBsu7Ogmd+SIcjVk2+5dBKZ6gPPAcnKfMpAXeqeugRDarVjb+0huVgukcldVWdDqKwVNcmQZKq+hzRr/6NgGc3c5M2FWhShWjadsg0R9S3zJmPJNn8rGB9RkV6nzg96SafmlYnJ2ibmz7Fgp/gS0GUpGH/+gVwfcYqQIS7p1BCjNeLBIqUi+i5+brsmGNJL4yOqC9JJZLoVoayZDa1TUq1o1wRDen3AhV5kcuEQty9T/cR6c5RS9Z0rgiG9OvFtUYRq8apjRh1genCNsMXuXwimma+QXpJOUnWN82DpGjH/Cgv2+qdguHl9lXSSqrupUFbgAPuF3UI9GnenBlal6qyRdLohiWCBkuGKB/VYfTHuz0vVMZJOjoH3wYI9V7D437ZSOskQd16mJ9bQTKj8Rpl+VH4v6SRVZ1soCyYHSu+URLD0WWSSqrMrkxXxYOGTMhEofJeqk3SyK9MFL8/hc8WxEuvJSzpJ1dmWyYqx7izxR24Z4pJOtmWyYtS7RIpUXeNIOtWP0tpVJ0P8Rzt39ptlEcVx/HDHPwJeIUvRondcSG3LoneiFKIXKG3ZRMGyaGSRVcJarKxuiUQWNxCI7DS2mFAEb0ohCg0mGilqgiiBPJ4M9SX1TF4Z3jnvb9r3TPK9NdF+cuZ5Z57HeJi4x2Rk06n3b3V4ULKnu6PUz5wuXejs9X1/tiPbv/eka8WCHdnMSW/3iekkQcko9enUh5fDd+zQt1njyp3ZC2MX9XpMstkZpb7VldI6z5PuvU2fA0DFweSLUn8QL8V1/drvbjtNfTrJZJT6gzh24aFtXLkzvekUEAEwGbDwrZOf0RaippMmMPyZk62766fOXxwyLKbwKOkzJwnMkI1ZmBIm0VMjekapH2DKZcieZ2R4UBKT7NWM8KAMWOg63XweP50kJm+U+vWKf9lavmB7cph8UeqXv/5lq4uPMECgFIEpYzJgYWvHps8AmMIi4HQyYBEe+GM8iGtGqb+aYiv/mj5xZYTppBel/hZm/mXrkw8OgTHJxo14JRel/uJc7MWXyLGuV3h6rOJfczu62+7+2Pz6Db+Gc6V410htHQmBkhEeEwCY/vUKH4a+6R7C+deeKrCbf/6Fx+Sr/G6U+jviCsCKfsWyf+8JTWPJYPJFKWGSqQBDXK+4aaa1ls3fVjxQ5WERGhQAGOy+jp/RAMAUplNABMYEAHYCevl7sf0KBJg+Jn+U+udQCsCg1ysbVnysDgyFaWz5LBHhMcnwwHRPxDWA4UH5o9Q/h1IABr+v421SFxgIky9KDRQAmAImADA8KG+U+udQsdc+Boa+rzvfdgEMTGBSi1L/HEoBmAIm7ARDYRI9KiPkdMIBw97VxQTGV1EpgRIRHhMYGOCKJeb9ZGvzORwm0csiCsCkDAoADHBfN61mRRZzbW/8FA/K05juKAAU4HpFFxjgvo6viw5mMdfE6tfxmPJEKX6sqQ8Mc/k7qfqN2NujEiYuHJM3SvBjzR5pAQNc/joQMdfUmuWA6RQWJfixpj4wwH3dvj1x3wk7eug0AFN4hMYEAKYJSsRTJvq519XOn92zV0qgRI/MdFGRtrrEgOnf182but5tiRqvSM+rX58kJl+EnE4AYO6PzlcrBbd0/tZc+/Ycz8XXQA4BL21cyWEa7YkA0ykoWz1wpQ5KRBJUWt/X2XLPXA4XHlN4lBImmQE7erA1q6legAEVIQqCALheKeWptXTeFiQmADDA9UopLv6hoIdJtRkiQk4nmaikH+pbT53L5tav7w2gRNXdEWA6BZXZcge1vF0mj8kXIaeTAQtaPNG+y2qqFiQJSjT8bgTBFHAibktunW/xNINj8oMSUWIfa4ps+de2xr3JYfJFYFAKwAyZxlYX3nQXATApADNkiOkkQclIH5MB014N9Wsh00kUDgz/OZTG/1+ef/YX0GVvQa9CK/w7TaiajwflifCY8hd78Ss1RTkR5196bvviowX3y097fbnnGAqTqCqXBJba93UawCAn4oxNc8o5xHXPLYViEpUxsIQwicboAEOeiLtJo7WOHGxVBSURCVAiSgXUGJkeMOwVC2+fm93E0ZhiEyrnF206yUKB4T+HUnhWOZ7E9cq65R/pHFts3FO06SSbJiI0Jjww3PVKC/8AiL3OtbUXbTpJUDICgEoRGOREnB/KNbZJGCZflPq3dfrAoPd1buLEXkvmbo671QVU+Z8o/EFcFZRIHxj0vs49M8VeO9//yo9JH5SIGE7K39dpHEiCMDlQooa6NfH/HXcfg2DyRXhMMn1guMtfX7EXX10VDKoyUgQFhQEGwAQAhgHFTe0RATChgcFBVfVMAxgEk2gYAwNgwgNL7L5OFVgRMfmi1D+H0geGv6+LvToYmCqoYfcfpf5tnS4w/H0dHlj4dAqJEgMl0gEmoaCuV5bMfRcATAWT6EmOksEEAAa4/BUdOdiiA0x/OglMslBggPs6fWDY+7qua79lsRejLT4mUb2L0sFUPGASEea+7ovdRzONxf/ceFtdACZfhPlYEwssAJPaificujVq7+ovaWiCYAoABrv8FSnd0+lf/oJw8UKCElGKH2vqA8Nd/q5d9qEqrnNn2iGYREPvRkBMIGBH9UH5Yblfd9pr68bdOUwAUCIKwAS4XsEBqywwPt9yf+yWU2fFxNL8dG18RQMCk6iiO0oMlCj24mMB8VV2R4QSWA6zxKQPqiJPBMUkCrhGsSWm15RnFxdtOuWvLpcEBr38NWAFnH0BMAlQIgrCBLivs3V/2/74itfCQClg8kVpYBIFALM1p3Y1ZDoFA8ODMmDhxxK7FKZTvAiAKeiYwFaeS+0DLVEexDVzwOCXv3my5V8tJ8+GTidIBJlOAdmSa8uGXVhMAREeUwgwO+ta3NCEBxUQBWCCfFtn696W+AwfReDRhEV4UFPzZMA62n/kqfVOr8A0akitiAIwQb6vM1i9BlMAMBAmX6V2In/4wDfZS+MX9VZQIlKYTgGYDBhPKr5HPJLNrl2dEqZoUXGmkwFjSDlMfMyA3/50QIkIjwn/Wi+HPxHHY1KJkKDSxyQzTGFRn8SEuvw1UCKyrc4wKfY3MYY/bDoZKKV+JQbyQ9KgDFOv64khU1yjhtZeIj4HO24P4oVmmHxVDKs7Tvw+WJNtdQaqAEz5gDXR6PIZtfYgHppNJ2+De1ZZVv8ijXt81iDb6mQ2nYJBiUaXT3+IsiwjRnHVtrr82XQKrpNt0b/AVtl0EhmmwlqVA1Y1fNpgm0621cWM/zsOzgHrnmLN9iBu0ylSzd2u7gFjPNW21dl0ilS1AMZY+nGtNp0MU4G1cv0EsG5kZdxtm0621T1gt7ky50kAyyGrW2ugbDo9YGtzlvIA68+dMUw2nQI7w/X3A5PIBnBdhsmm0312nRsoLXmB5ZCVczcMlGH6n25w5dKQBOZDVsXdNEwuwyS7yVUJOwJYfmQjw7dLm04lUBc3MmclHJh4Jmsr1elkmERt3ABhJRyY+HW5hrtjD+Il2x1unfi1WAAwEf+ByrgWw1RytfQ4RI0KTCLrx1VzzbbV9fmauerc9Y86MIltELeau9xnppN1hVvNPRxgQQGYxDaQm8w1cl9zF7ku7lZy08m6xXVxF7nDXCM3WR6YFtY/g9j2sjS1K/4AAAAASUVORK5CYII=</node>
+            <node x="" y="">data:text/css;charset=utf-8,</node>
+            <node x="" y="">debug</node>
+            <node x="" y="">declaration</node>
+            <node x="" y="">default_full</node>
+            <node x="" y="">default_safe</node>
+            <node x="" y="">display-flex</node>
+            <node x="" y="">lookup;</node>
+            <node x="" y="">dropdown.js</node>
+            <node x="" y="">dumper</node>
+            <node x="" y="">EventEmitter;</node>
+            <node x="" y="">exception</node>
+            <node x="" y="">exports</node>
+            <node x="" y="">failsafe</node>
+            <node x="" y="">fill-available</node>
+            <node x="" y="">filter</node>
+            <node x="" y="">filter-value</node>
+            <node x="" y="">flex</node>
+            <node x="" y="">flex-basis</node>
+            <node x="" y="">flex-direction</node>
+            <node x="" y="">flex-flow</node>
+            <node x="" y="">flex-grow</node>
+            <node x="" y="">flex-shrink</node>
+            <node x="" y="">flex-spec</node>
+            <node x="" y="">flex-wrap</node>
+            <node x="" y="">flexbox</node>
+            <node x="" y="">float</node>
+            <node x="" y="">font-feature</node>
+            <node x="" y="">readFileSync;</node>
+            <node x="" y="">fs-extra</node>
+            <node x="" y="">fullscreen</node>
+            <node x="" y="">function</node>
+            <node x="" y="">gradient</node>
+            <node x="" y="">http</node>
+            <node x="" y="">http://37.media.tumblr.com/tumblr_m8tay0JcfG1qa42jro1_1280.jpg</node>
+            <node x="" y="">http://37.media.tumblr.com/tumblr_m8tazfiVYJ1qa42jro1_1280.jpg</node>
+            <node x="" y="">http://38.media.tumblr.com/tumblr_m8tb2rVsD31qa42jro1_1280.jpg</node>
+            <node x="" y="">http://expo.getbootstrap.com/thumbs/{{ showcase.img }}-thumb.jpg</node>
+            <node x="" y="">http://www.gravatar.com/avatar/{{ member.gravatar }}</node>
+            <node x="" y="">https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js</node>
+            <node x="" y="">ieee754</node>
+            <node x="" y="">info</node>
+            <node x="" y="">int</node>
+            <node x="" y="">intrinsic-width</node>
+            <node x="" y="">is-array</node>
+            <node x="" y="">Base64;</node>
+            <node x="" y="">js-yaml.js</node>
+            <node x="" y="">js/bootstrap.min.js</node>
+            <node x="" y="">json</node>
+            <node x="" y="">jsonfile</node>
+            <node x="" y="">justify-content</node>
+            <node x="" y="">keyframes</node>
+            <node x="" y="">list</node>
+            <node x="" y="">load-grunt-tasks</node>
+            <node x="" y="">loader</node>
+            <node x="" y="">map</node>
+            <node x="" y="">map-generator</node>
+            <node x="" y="">mark</node>
+            <node x="" y="">merge</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/pug/lib/index.js#__express#12357;</node>
+            <node x="" y="">modal.js</node>
+            <node x="" y="">module</node>
+            <node x="" y="">multicolumn</node>
+            <node x="" y="">name</node>
+            <node x="" y="">Socket;isIP;</node>
+            <node x="" y="">node</node>
+            <node x="" y="">nodegit.node</node>
+            <node x="" y="">npm-shrinkwrap</node>
+            <node x="" y="">null</node>
+            <node x="" y="">old-selector</node>
+            <node x="" y="">old-value</node>
+            <node x="" y="">omap</node>
+            <node x="" y="">order</node>
+            <node x="" y="">os</node>
+            <node x="" y="">pairs</node>
+            <node x="" y="">parse</node>
+            <node x="" y="">resolve;</node>
+            <node x="" y="">placeholder</node>
+            <node x="" y="">pointer</node>
+            <node x="" y="">popover.js</node>
+            <node x="" y="">postcss</node>
+            <node x="" y="">prefixer</node>
+            <node x="" y="">prefixes</node>
+            <node x="" y="">previous-map</node>
+            <node x="" y="">processor</node>
+            <node x="" y="">querystring</node>
+            <node x="" y="">regexp</node>
+            <node x="" y="">remarkable</node>
+            <node x="" y="">require</node>
+            <node x="" y="">result</node>
+            <node x="" y="">root</node>
+            <node x="" y="">rule</node>
+            <node x="" y="">schema</node>
+            <node x="" y="">scrollspy.js</node>
+            <node x="" y="">selector</node>
+            <node x="" y="">seq</node>
+            <node x="" y="">set</node>
+            <node x="" y="">SourceMapConsumer;</node>
+            <node x="" y="">SourceMapGenerator;</node>
+            <node x="" y="">SourceNode;</node>
+            <node x="" y="">str</node>
+            <node x="" y="">Duplex;Readable;Writable;</node>
+            <node x="" y="">supports</node>
+            <node x="" y="">tab.js</node>
+            <node x="" y="">text-decoration</node>
+            <node x="" y="">text-size-adjust</node>
+            <node x="" y="">time-grunt</node>
+            <node x="" y="">timestamp</node>
+            <node x="" y="">tooltip.js</node>
+            <node x="" y="">transform-decl</node>
+            <node x="" y="">transform-value</node>
+            <node x="" y="">transforms2d</node>
+            <node x="" y="">transforms3d</node>
+            <node x="" y="">transition</node>
+            <node x="" y="">transition.js</node>
+            <node x="" y="">tty</node>
+            <node x="" y="">type</node>
+            <node x="" y="">undefined</node>
+            <node x="" y="">user-select-none</node>
+            <node x="" y="">inherits;</node>
+            <node x="" y="">utils</node>
+            <node x="" y="">uubench</node>
+            <node x="" y="">value</node>
+            <node x="" y="">vendor</node>
+            <node x="" y="">zlib</node>
+            <node x="" y="">{{ file }}</node>
+            <node x="" y="">{{ site.cdn.css }}</node>
+            <node x="" y="">{{ site.cdn.css_theme }}</node>
+            <node x="" y="">{{ site.cdn.js }}</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.1" x="6235.0" y="3517.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="107" lean-forward="false" selection-start-line="20" selection-start-column="107" selection-end-line="20" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/create_git.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="44" lean-forward="false" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/logout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects/aretgdf/vars/servers.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects/asfdasdf/vars/servers.yaml">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/LKJDF/vars/teams.yaml">
+    <entry file="file://$PROJECT_DIR$/views/layout_new.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        <state relative-caret-position="455">
+          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/XSAFD934753928475/vars/servers.yaml">
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="117">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/XSAFD934753928475/vars/teams.yaml">
+    <entry file="file://$PROJECT_DIR$/views/export_git.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="208">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/KJRTE034750/vars/users.yaml">
+    <entry file="file://$PROJECT_DIR$/routes/export_git.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="182">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/KJRTE034750/vars/teams.yaml">
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="208">
+          <caret line="16" column="34" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/KJRTE034750/vars/servers.yaml">
+    <entry file="file://$PROJECT_DIR$/views/export_down.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/BRTANlksdafjkfdslkjf90320943032990438208/vars/servers.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/BRTANlksdafjkfdslkjf90320943032990438208/vars/teams.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/projects/BRTANlksdafjkfdslkjf90320943032990438208/vars/users.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/create_struct.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="156">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state relative-caret-position="318">
+          <caret line="115" column="39" lean-forward="false" selection-start-line="115" selection-start-column="39" selection-end-line="115" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/export.pug">
+    <entry file="file://$PROJECT_DIR$/public/projects/XY55436/vars/servers.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects/KDFKJ435/vars/servers.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/projects/HHH55555555/vars/servers.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/create_server.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/servers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/servers.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="33" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/teams.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/create_struct.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="55" lean-forward="false" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/create_struct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/export_down.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/create_server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="59" lean-forward="false" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
           <folding />
         </state>
       </provider>
