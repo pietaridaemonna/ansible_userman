@@ -1,0 +1,7 @@
+---
+users:
+  - username: myuser
+    name: some admin
+    team: [samplegroup]
+    ssh_keys:
+      - ssh-rsa FJDLJS:FJ:SDJ:F:FDSFKJDSF

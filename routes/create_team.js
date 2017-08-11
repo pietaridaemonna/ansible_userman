@@ -11,8 +11,8 @@ router.post('/', function (req, res, next) {
         res.redirect('/');
     } else {
         var cdir = process.cwd();
-        fs.appendFileSync(cdir + '/public/projects/'+req.session.proj_path+'/vars/servers.yml', '\n  ' + req.body.hostname + ':\n    name: ' + req.body.aliasname + '\n    teams: ' + req.body.teams);
-        res.cookie('proj_path',req.session.proj_path ).render('servers', {proj_path: req.session.proj_path});
+        fs.appendFileSync(cdir + '/public/projects/'+req.session.proj_path+'/vars/teams.yml', '\n  ' + req.body.teamname + ':\n    groups: ' + req.body.nixgroups + '\n    add_keys_to_user: ' + req.body.add_keys_to_user);
+        res.cookie('proj_path',req.session.proj_path ).render('teams', {proj_path: req.session.proj_path});
     }
 
 });

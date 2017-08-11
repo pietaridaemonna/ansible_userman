@@ -19,13 +19,13 @@ router.post('/', function (req, res, next) {
 
     //GENERATE FILES
     try{
-        const servers = 'public/projects/'+req.body.proj_path+'/vars/servers.yaml';
-        const teams = 'public/projects/'+req.body.proj_path+'/vars/teams.yaml';
-        const users = 'public/projects/'+req.body.proj_path+'/vars/users.yaml';
+        const servers = 'public/projects/'+req.body.proj_path+'/vars/servers.yml';
+        const teams = 'public/projects/'+req.body.proj_path+'/vars/teams.yml';
+        const users = 'public/projects/'+req.body.proj_path+'/vars/users.yml';
 
         console.log('creating servers...')
         fs.outputFileSync(users, '---\nusers:\n  - username: myuser\n    name: some admin\n    team: [samplegroup]\n    ssh_keys:\n      - ssh-rsa FJDLJS:FJ:SDJ:F:FDSFKJDSF\n');
-        fs.outputFileSync(teams, '---\nteams:\n  samplegroup:\n    groups: [somegroup]\n      add_keys_to_user: [somegroup]');
+        fs.outputFileSync(teams, '---\nteams:\n  samplegroup:\n    groups: [somegroup]\n    add_keys_to_user: [somegroup]');
         fs.outputFileSync(servers, '---\nservers:\n  mysamplehost:\n    name: samplehost\n    teams: [samplegroup]');
     } catch (err){
         console.error(err);

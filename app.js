@@ -17,6 +17,8 @@ var create_struct = require('./routes/create_struct');
 var export_git = require('./routes/export_git');
 var export_down = require('./routes/export_down');
 var create_server = require('./routes/create_server');
+var create_user = require('./routes/create_user');
+var create_team = require('./routes/create_team');
 
 
 var compression = require('compression');
@@ -75,10 +77,6 @@ app.disable('x-powered-by');
 
 
 
-
-
-
-
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
@@ -114,6 +112,8 @@ app.use('/create_struct', create_struct);
 app.use('/export_git', export_git);
 app.use('/export_down', export_down);
 app.use('/create_server', create_server);
+app.use('/create_user', create_user);
+app.use('/create_team', create_team);
 
 
 
