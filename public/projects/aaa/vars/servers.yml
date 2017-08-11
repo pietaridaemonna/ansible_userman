@@ -3,6 +3,6 @@ servers:
   mysamplehost:
     name: samplehost
     teams: [samplegroup]
-  besthostever:
-    name: 11 or something
-    teams: samplegroup
+  aaa:
+    name: aaa
+    teams: [samplegroup]

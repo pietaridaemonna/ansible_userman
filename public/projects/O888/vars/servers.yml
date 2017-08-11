@@ -3,6 +3,6 @@ servers:
   mysamplehost:
     name: samplehost
     teams: [samplegroup]
-  Host666:
-    name: asdsaf
-    teams: [samplegroup,TeamSeal6]
+  host66666666666
+    name: sadf
+    teams: [samplegroup,X1]

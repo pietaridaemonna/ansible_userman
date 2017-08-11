@@ -4,12 +4,12 @@ var express = require('express');
 var router = express.Router();
 const yaml = require('js-yaml');
 const fs = require('fs');
+var process = require('process');
 
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
 
-    console.log('COOKIE: '+req.session);
     if (!req.session.proj_path){
         res.redirect('/');
     } else {
@@ -17,7 +17,6 @@ router.get('/', function (req, res, next) {
         var teamz = [];
 
         const config = yaml.safeLoad(fs.readFileSync(cdir + '/public/projects/'+req.session.proj_path+'/vars/teams.yml', 'utf8'));
-        //const teamz = config.teams;
         for (const team in config.teams) {
             console.log(team);
             teamz.push(team);

@@ -1,0 +1,12 @@
+---
+servers:
+  mysamplehost:
+    name: samplehost
+    teams: [samplegroup]
+  serv44:
+    name: ksdfj
+    teams: [samplegroup]
+
+  Host1:
+    name: 33orsomething
+    teams: [samplegroup]

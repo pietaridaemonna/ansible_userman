@@ -1,0 +1,14 @@
+---
+servers:
+  mysamplehost:
+    name: samplehost
+    teams: [samplegroup]
+  saf:
+    name: sadfafdsadf
+    teams: [samplegroup]
+  sadfsadf:
+    name: sdf
+    teams: [samplegroup]
+  sadfsadf:
+    name: sdf
+    teams: [samplegroup]
