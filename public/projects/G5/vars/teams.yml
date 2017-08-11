@@ -3,6 +3,6 @@ teams:
   samplegroup:
     groups: [somegroup]
     add_keys_to_user: [somegroup]
-  TeamBest:
-    groups: teamone
-    add_keys_to_user: teamone
+  TeamX:
+    groups: teamx
+    add_keys_to_user: tkldsajflkjas

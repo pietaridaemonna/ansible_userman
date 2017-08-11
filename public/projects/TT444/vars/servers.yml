@@ -1,0 +1,8 @@
+---
+servers:
+  mysamplehost:
+    name: samplehost
+    teams: [samplegroup]
+  Host666:
+    name: asdsaf
+    teams: [samplegroup,TeamSeal6]

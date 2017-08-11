@@ -1,0 +1,13 @@
+---
+users:
+  - username: myuser
+    name: some admin
+    team: [samplegroup]
+    ssh_keys:
+      - ssh-rsa FJDLJS:FJ:SDJ:F:FDSFKJDSF
+
+  - username: tttt77777:
+    name: asfdsadf
+    team: [samplegroup,TeamSeal6]
+    ssh_keys:
+      - asdfsadfasdfasdfsadf

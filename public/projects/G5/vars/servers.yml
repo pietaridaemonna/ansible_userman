@@ -1,0 +1,8 @@
+---
+servers:
+  mysamplehost:
+    name: samplehost
+    teams: [samplegroup]
+  Host1:
+    name: salfjlskadfjlksadf
+    teams: samplegroup,TeamX

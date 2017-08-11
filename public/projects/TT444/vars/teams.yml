@@ -1,0 +1,8 @@
+---
+teams:
+  samplegroup:
+    groups: [somegroup]
+    add_keys_to_user: [somegroup]
+  TeamSeal6:
+    groups: seal5
+    add_keys_to_user: seal5

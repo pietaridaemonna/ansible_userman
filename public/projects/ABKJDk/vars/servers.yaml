@@ -1,5 +1,0 @@
----
-servers:
-  mysamplehost:
-    name: samplehost
-    teams: [samplegroup]

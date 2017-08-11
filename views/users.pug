@@ -18,9 +18,9 @@ block body
           div.form-group
             label(for='teams') already existing teams
             p
-            //select(name='teams', multiple='')
-            //  each val in teams
-            //    option(value='#{val}') #{val}
+            select(name='teams', multiple='')
+              each val in teams
+                option(value=!{val}) #{val}
           div.form-group
             label(for='sshkey') ssh key
             input.form-control(type='text' id='sshkey' placeholder='users ssh key' name='sshkey')

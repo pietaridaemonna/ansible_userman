@@ -19,8 +19,8 @@ block body
           div.form-group
             label(for='teams') add to teams
             p
-            //select(name='teams', multiple='')
-            //  each val in teams
-            //    option(value='#{val}') #{val}
+            select(name='teams', multiple='')
+              each val in teams
+                option(value=!{val}) #{val}
           button.btn.btn-primary(type='submit') Create
 
