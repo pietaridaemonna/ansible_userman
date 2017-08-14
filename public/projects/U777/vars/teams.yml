@@ -1,5 +1,0 @@
----
-teams:
-  samplegroup:
-    groups: [somegroup]
-    add_keys_to_user: [somegroup]

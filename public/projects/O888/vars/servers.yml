@@ -1,8 +1,0 @@
----
-servers:
-  mysamplehost:
-    name: samplehost
-    teams: [samplegroup]
-  host66666666666
-    name: sadf
-    teams: [samplegroup,X1]
